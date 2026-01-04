@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🛠️ Languages & Tools
+- Python
+- Java
+- C#
+- JavaScript
+- SQL
