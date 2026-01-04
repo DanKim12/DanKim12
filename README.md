@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **toy-assembler-in-c**
 
-- 🌱 I’m currently learning **📘 Currently learning: 💻 C++ • 🗂️ Data Structures • 📐 Introduction to Algorithms**
+- 🌱 I’m currently learning **💻 C++ • 🗂️ Data Structures • 📐 Introduction to Algorithms**
 
 - 👯 I’m looking to collaborate on **cybersecurity projects, pentesting tools**
 
