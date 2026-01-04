@@ -51,9 +51,10 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
-  <!-- New additions -->
+
+  <!-- New working icons -->
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="assembly" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Assembly-language-icon.png" alt="assembly" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
@@ -62,12 +63,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kali_linux/kali_linux-icon.svg" alt="kali-linux" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Kali_Linux_logo.svg" alt="kali-linux" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" alt="networking" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Network_icon.svg" alt="networking" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Computer_security" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/security/security-original.svg" alt="security" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Antivirus_Icon.png" alt="security" width="40" height="40"/>
   </a>
 </p>
+
