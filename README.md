@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,c#,html,css,python,assembly,c)](https://skillicons.dev)
