@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Kimelmann</h1>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">🎓 17 y/o Computer Science Student • 🏛️ Open University of Israel</h3>
 
 - 🔭 I’m currently working on **toy-assembler-in-c**
